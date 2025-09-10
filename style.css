@@ -16,8 +16,9 @@ ul li a {
     color: black;
     text-align: center;
     text-decoration: none;
-    padding: 30px;
+    padding: 10px;
     background-color: rgb(250, 227, 198);
+    width: 50px;
 }
 ul li a:hover {
     background-color: maroon;
