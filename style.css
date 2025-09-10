@@ -10,6 +10,7 @@ ul {
 }
 ul li {
     float: inline-start;
+    width: 20%;
 }
 ul li a {
     display: block;
