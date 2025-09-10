@@ -5,6 +5,9 @@ h1 {
     font-size: 70px;
     margin-top: 15px;
 }
+h2 {
+    margin-top: 15px;
+}
 ul {
     list-style-type: none;
     margin: 0;
