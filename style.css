@@ -9,7 +9,7 @@ ul {
     background-color: antiquewhite;
 }
 ul li {
-    float: none;
+    float: inline-start;
 }
 ul li a {
     display: block;
