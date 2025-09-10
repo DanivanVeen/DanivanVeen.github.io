@@ -11,6 +11,7 @@ h2 {
     outline: rgb(248, 216, 177);
     padding: 5%;
     margin-top: 10px;
+    width: 80%;
 }
 ul {
     list-style-type: none;
