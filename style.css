@@ -1,6 +1,23 @@
 body {
-    background-color: aqua;
+    background-color: antiquewhite;
 }
-h1 {
-    font-size: larger;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: antiquewhite;
+}
+ul li {
+    float: left;
+}
+ul li a {
+    display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+ul li a:hover {
+    background-color: maroon;
+    color: white;
 }
