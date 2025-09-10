@@ -9,7 +9,7 @@ ul {
     background-color: antiquewhite;
 }
 ul li {
-    float: center;
+    float: none;
 }
 ul li a {
     display: block;
