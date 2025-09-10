@@ -12,7 +12,7 @@ h2 {
     padding: 5%;
     margin-top: 10px;
     width: 80%;
-    text-align: center;
+    align-content: center;
 }
 ul {
     list-style-type: none;
