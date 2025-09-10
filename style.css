@@ -19,6 +19,7 @@ ul li a {
     text-decoration: none;
     padding: 20px;
     background-color: rgb(248, 216, 177);
+    font-size: 100px;
 }
 ul li a:hover {
     background-color: maroon;
