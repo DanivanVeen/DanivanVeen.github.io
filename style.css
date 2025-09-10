@@ -7,14 +7,13 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: antiquewhite;
-    width: 100%;
 }
 ul li {
     float: left;
     width: 100%;
 }
 ul li a {
-    display: block;
+    display: inline-block;
     color: black;
     text-align: center;
     text-decoration: none;
