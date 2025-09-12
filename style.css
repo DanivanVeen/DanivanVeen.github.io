@@ -15,6 +15,7 @@ h2 {
     outline: rgb(248, 216, 177);
     padding: 2%;
     width:30%;
+    float: left;
 }
 h3 {
     font-size: 30px;
