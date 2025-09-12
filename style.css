@@ -2,7 +2,7 @@ body {
     background-color: antiquewhite;
 }
 img {
-    float: right;
+    float: top right;
 }
 h1 {
     font-size: 100px;
