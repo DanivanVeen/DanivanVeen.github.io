@@ -1,6 +1,10 @@
 body {
     background-color: antiquewhite;
 }
+img {
+  display: block;
+  margin-left: right;
+}
 h1 {
     font-size: 70px;
     margin-top: 15px;
