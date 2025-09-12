@@ -7,9 +7,10 @@ h1 {
 }
 h2 {
     color: white;
-    background-color: rgb(32, 255, 166);
+    background-color: maroon;
     outline: rgb(248, 216, 177);
     padding: 5%;
+    width: 70%;
 }
 ul {
     list-style-type: none;
