@@ -18,7 +18,7 @@ h2 {
     color: white;
     background-color: maroon;
     outline: rgb(248, 216, 177);
-    padding: 2%;
+    padding: 1%;
     width:30%;
     float: left;
 }
@@ -27,7 +27,7 @@ h3 {
     color: white;
     background-color: maroon;
     outline: rgb(248, 216, 177);
-    padding: 2%;
+    padding: 1%;
     width:30%;
     float: right;
 }
