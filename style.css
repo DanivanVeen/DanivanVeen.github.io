@@ -5,6 +5,11 @@ h1 {
     font-size: 100px;
     margin-top: 15px;
 }
+h4 {
+    background-color: maroon;
+    padding: 2%;
+    width: 100%;
+}
 h2 {
     font-size: 30px;
     color: white;
