@@ -4,8 +4,10 @@ body {
 h1 {
     font-size: 100px;
     margin-top: 15px;
+    margin-bottom: 15px;
 }
 h4 {
+    margin-top: 15px;
     margin-bottom: 100px;
     float: none;
     color: maroon;
