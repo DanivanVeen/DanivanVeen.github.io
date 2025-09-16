@@ -57,3 +57,6 @@ ul li a:hover {
     background-color: maroon;
     color: white;
 }
+img {
+    border: 5px rgb(248, 216, 177);
+}
