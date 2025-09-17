@@ -45,6 +45,7 @@ ul {
 ul li {
     float: inline-start;
     width: 20%;
+    position: sticky;
 }
 ul li a {
     display: block;
