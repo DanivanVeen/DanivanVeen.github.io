@@ -41,7 +41,6 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: antiquewhite;
-    position: sticky;
 }
 ul li {
     float: inline-start;
@@ -55,6 +54,7 @@ ul li a {
     padding: 15px;
     background-color: rgb(248, 216, 177);
     font-size: 20px;
+    position: sticky;
 }
 ul li a:hover {
     background-color: maroon;
