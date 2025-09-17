@@ -54,11 +54,13 @@ ul li a {
     padding: 15px;
     background-color: rgb(248, 216, 177);
     font-size: 20px;
-    position: sticky;
 }
 ul li a:hover {
     background-color: maroon;
     color: white;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
 }
 img {
     border: 5px solid rgb(248, 216, 177);
