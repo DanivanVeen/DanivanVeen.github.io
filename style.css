@@ -41,11 +41,11 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: antiquewhite;
+    position: sticky;
 }
 ul li {
     float: inline-start;
     width: 20%;
-    position: sticky;
 }
 ul li a {
     display: block;
