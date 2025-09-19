@@ -41,6 +41,11 @@ h5 {
     text-align: center;
     margin-top: 20px;
 }
+p {
+    background-color: maroon;
+    color: white;
+    padding: 1%;
+}
 ul {
     list-style-type: none;
     margin: 0;
