@@ -45,6 +45,8 @@ p {
     background-color: maroon;
     color: white;
     padding: 1%;
+    text-align: center;
+    float: left;
 }
 ul {
     list-style-type: none;
