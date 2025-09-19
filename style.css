@@ -46,6 +46,7 @@ h6 {
     color: black;
     margin: 20px;
     margin-top: 10px;
+    text-align: center;
 }
 p {
     background-color: maroon;
@@ -56,6 +57,7 @@ p {
     font-size: 25px;
     margin-top: 20px;
     width: 10%;
+    align-content: center;
 }
 ul {
     list-style-type: none;
