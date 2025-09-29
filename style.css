@@ -94,3 +94,8 @@ img {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+a {
+    color: maroon;
+    text-align: center;
+    font-size: 25px;
+}
