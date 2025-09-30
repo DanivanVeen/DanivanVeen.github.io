@@ -1,28 +1,28 @@
-body {
-    background-color: antiquewhite;
+body { 
+    background-color: antiquewhite; /*dit zorgt ervoor dat de achtergrond een kleur krijgt*/
 }
 h1 {
-    font-size: 100px;
-    margin-top: 15px;
-    margin-bottom: 20px;
+    font-size: 100px; /*dit verandert de grootte van de tekst*/
+    margin-top: 15px; /*hiermee zorg je ervoor dat er ruimte boven de tekst komt*/
+    margin-bottom: 20px; /*hiermee zorg je ervoor dat er ruimte onder de tekst komt*/
 }
 h4 {
     margin-top: 20px;
     margin-bottom: 15px;
-    float: none;
-    color: maroon;
-    background-color: maroon;
-    padding: 0,2%;
-    width: 100%;
+    float: none; /*hierdoor blijft het in normale toestand staan*/
+    color: maroon; /*hiermee maak je de tekstkleur anders*/
+    background-color: maroon; 
+    padding: 0,2%; /*hiermee vergroot je de oppervlakte van de achtergrond*/
+    width: 100%; /*hiermee kan je de breedte veranderen*/
 }
 h2 {
     font-size: 30px;
     color: white;
     background-color: maroon;
-    outline: rgb(248, 216, 177);
+    outline: rgb(248, 216, 177); /*hiermee krijgt de achtegrond een andere randkleur*/
     padding: 2%;
     width:30%;
-    float: left;
+    float: left; /*hierdoor komt het tekstblok links te staan*/
     margin-top: 20px;
 }
 h3 {
@@ -32,74 +32,74 @@ h3 {
     padding: 2%;
     outline: rgb(248, 216, 177);
     width:30%;
-    float: right;
+    float: right; /*hierdoor komt het tekstblok rechts te staan*/
     margin-top: 20px;
 }
 h5 {
     font-size: 35px;
     color: black;
-    text-align: center;
+    text-align: center; /*dit zorgt ervoor dat de tekst in het midden komt te staan*/
     margin-top: 20px;
     margin-bottom: 10px;
 }
 h6 {
     font-size: 25px;
     color: black;
-    margin: 20px;
+    margin: 20px; /*hierdoor komt er meer ruimte helemaal rondom de tekst*/
     margin-top: 0px;
     text-align: center;
 }
 p {
     color: maroon;
-    text-decoration-line: underline;
-    font-weight: bold;
+    text-decoration-line: underline; /*hierdoor komt er een lijntje onder de tekst te staan*/
+    font-weight: bold; /*dit zorgt ervoor dat de tekst dikgedrukt is*/
     text-align: center;
     font-size: 25px;
     margin-top: 30px;
-    margin-left: 45%;
+    margin-left: 45%; /*hiermee komt er meer ruimte links van de tekst*/
     margin-bottom: 7px;
     width: 10%;
 }
 ul {
-    list-style-type: none;
+    list-style-type: none; /*dit zorgt ervoor dat het menu normaal blijft*/
     margin: 0;
-    padding: 0;
-    overflow: hidden;
+    padding: 0; /*dit zorgt ervoor dat ermeer of minder opvulling is*/
+    overflow: hidden; /*hierdoor wordt de tekst aan het einde van het blok afgekapt*/
     background-color: antiquewhite;
 }
 ul li {
-    float: inline-start;
+    float: inline-start; /*hierdoor begint het menu aan de linkerkant*/
     width: 20%;
 }
 ul li a {
-    display: block;
+    display: block; /*dit zorgt ervoor dat het de volledige breedte van de website gebruikt en niet naast iets anders komt te staan*/
     color: black;
     text-align: center;
-    text-decoration: none;
+    text-decoration: none; /*hierdoor blijft de tekst normaal*/
     padding: 15px;
     background-color: rgb(248, 216, 177);
     font-size: 20px;
 
 }
-ul li a:hover {
+ul li a:hover { /*dit zorgt ervoor dat als je over de tekst gaat het een andere kleur krijgt*/
     background-color: maroon;
     color: white;
 }
-li a.active {
+li a.active { /*hiermee blijft het tab die je hebt aangeklikt een andere kleur om aan te geven dat je daar bent*/
 background-color: maroon;
 color: white;
 }
 img {
-    border: 5px solid rgb(248, 216, 177);
+    border: 5px solid rgb(248, 216, 177); /*hierdoor komt er een randje om de plaatjes*/
     margin-top: 20px;
     margin-bottom: 20px;
 }
-#link {
+#link { /*hiermee maak je een 'a' een andere naam*/
     color: maroon;
     margin-left: 38%;
     font-size: 25px;
 }
-#site {
+#site { /*hiermee maak je een 'a' een andere naam*/
     color: maroon;
     margin-left: 35%;
     font-size: 25px;
